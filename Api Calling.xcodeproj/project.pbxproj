@@ -11,6 +11,7 @@
 		3FFC2494265413D1003A97DE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFC2493265413D1003A97DE /* ContentView.swift */; };
 		3FFC2496265413D8003A97DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FFC2495265413D8003A97DE /* Assets.xcassets */; };
 		3FFC2499265413D8003A97DE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FFC2498265413D8003A97DE /* Preview Assets.xcassets */; };
+		3FFC24A226541692003A97DE /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFC24A126541692003A97DE /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3FFC2495265413D8003A97DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FFC2498265413D8003A97DE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3FFC249A265413D8003A97DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FFC24A126541692003A97DE /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				3FFC2491265413D1003A97DE /* Api_CallingApp.swift */,
 				3FFC2493265413D1003A97DE /* ContentView.swift */,
 				3FFC2495265413D8003A97DE /* Assets.xcassets */,
+				3FFC24A126541692003A97DE /* SwiftyJSON.swift */,
 				3FFC249A265413D8003A97DE /* Info.plist */,
 				3FFC2497265413D8003A97DE /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FFC24A226541692003A97DE /* SwiftyJSON.swift in Sources */,
 				3FFC2494265413D1003A97DE /* ContentView.swift in Sources */,
 				3FFC2492265413D1003A97DE /* Api_CallingApp.swift in Sources */,
 			);
