@@ -12,6 +12,7 @@
 		3FFC2496265413D8003A97DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FFC2495265413D8003A97DE /* Assets.xcassets */; };
 		3FFC2499265413D8003A97DE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FFC2498265413D8003A97DE /* Preview Assets.xcassets */; };
 		3FFC24A226541692003A97DE /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFC24A126541692003A97DE /* SwiftyJSON.swift */; };
+		3FFC24AA26541938003A97DE /* Api Calling in Resources */ = {isa = PBXBuildFile; fileRef = 3FFC24A926541938003A97DE /* Api Calling */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3FFC2498265413D8003A97DE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3FFC249A265413D8003A97DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3FFC24A126541692003A97DE /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		3FFC24A926541938003A97DE /* Api Calling */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Api Calling"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				3FFC2491265413D1003A97DE /* Api_CallingApp.swift */,
+				3FFC24A926541938003A97DE /* Api Calling */,
 				3FFC2493265413D1003A97DE /* ContentView.swift */,
 				3FFC2495265413D8003A97DE /* Assets.xcassets */,
 				3FFC24A126541692003A97DE /* SwiftyJSON.swift */,
@@ -129,6 +132,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FFC24AA26541938003A97DE /* Api Calling in Resources */,
 				3FFC2499265413D8003A97DE /* Preview Assets.xcassets in Resources */,
 				3FFC2496265413D8003A97DE /* Assets.xcassets in Resources */,
 			);
